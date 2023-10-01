@@ -1,0 +1,70 @@
+C:\Users\USER\Desktop\Stock management System\Stock_Management_System\Stock_Management_System\bin\Debug\net5.0-windows\Stock_Management_System.exe
+C:\Users\USER\Desktop\Stock management System\Stock_Management_System\Stock_Management_System\bin\Debug\net5.0-windows\Stock_Management_System.deps.json
+C:\Users\USER\Desktop\Stock management System\Stock_Management_System\Stock_Management_System\bin\Debug\net5.0-windows\Stock_Management_System.runtimeconfig.json
+C:\Users\USER\Desktop\Stock management System\Stock_Management_System\Stock_Management_System\bin\Debug\net5.0-windows\Stock_Management_System.runtimeconfig.dev.json
+C:\Users\USER\Desktop\Stock management System\Stock_Management_System\Stock_Management_System\bin\Debug\net5.0-windows\Stock_Management_System.dll
+C:\Users\USER\Desktop\Stock management System\Stock_Management_System\Stock_Management_System\bin\Debug\net5.0-windows\Stock_Management_System.pdb
+C:\Users\USER\Desktop\Stock management System\Stock_Management_System\Stock_Management_System\obj\Debug\net5.0-windows\Stock_Management_System.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Stock management System\Stock_Management_System\Stock_Management_System\obj\Debug\net5.0-windows\Stock_Management_System.Form1.resources
+C:\Users\USER\Desktop\Stock management System\Stock_Management_System\Stock_Management_System\obj\Debug\net5.0-windows\Stock_Management_System.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Stock management System\Stock_Management_System\Stock_Management_System\obj\Debug\net5.0-windows\Stock_Management_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Stock management System\Stock_Management_System\Stock_Management_System\obj\Debug\net5.0-windows\Stock_Management_System.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Stock management System\Stock_Management_System\Stock_Management_System\obj\Debug\net5.0-windows\Stock_Management_System.AssemblyInfo.cs
+C:\Users\USER\Desktop\Stock management System\Stock_Management_System\Stock_Management_System\obj\Debug\net5.0-windows\Stock_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Stock management System\Stock_Management_System\Stock_Management_System\obj\Debug\net5.0-windows\Stock_Management_System.dll
+C:\Users\USER\Desktop\Stock management System\Stock_Management_System\Stock_Management_System\obj\Debug\net5.0-windows\refint\Stock_Management_System.dll
+C:\Users\USER\Desktop\Stock management System\Stock_Management_System\Stock_Management_System\obj\Debug\net5.0-windows\Stock_Management_System.pdb
+C:\Users\USER\Desktop\Stock management System\Stock_Management_System\Stock_Management_System\obj\Debug\net5.0-windows\Stock_Management_System.genruntimeconfig.cache
+C:\Users\USER\Desktop\Stock management System\Stock_Management_System\Stock_Management_System\obj\Debug\net5.0-windows\ref\Stock_Management_System.dll
+C:\Users\USER\Desktop\Stock management System\Stock_Management_System\Stock_Management_System\obj\Debug\net5.0-windows\Stock_Management_System.login.resources
+C:\Users\USER\Desktop\Stock management System\Stock_Management_System\Stock_Management_System\obj\Debug\net5.0-windows\Stock_Management_System.Properties.Resources.resources
+C:\Users\USER\Desktop\Stock management System\Stock_Management_System\Stock_Management_System\obj\Debug\net5.0-windows\Stock_Management_System.Stocks.resources
+C:\Users\USER\Desktop\Stock management System\Stock_Management_System\Stock_Management_System\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\USER\Desktop\Stock management System\Stock_Management_System\Stock_Management_System\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\USER\Desktop\Stock management System\Stock_Management_System\Stock_Management_System\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\USER\Desktop\Stock management System\Stock_Management_System\Stock_Management_System\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\USER\Desktop\Stock management System\Stock_Management_System\Stock_Management_System\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\Desktop\Stock management System\Stock_Management_System\Stock_Management_System\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\Desktop\Stock management System\Stock_Management_System\Stock_Management_System\obj\Debug\net5.0-windows\Stock_Management_System.Home.resources
+C:\Users\USER\Desktop\Stock management System\Stock_Management_System\Stock_Management_System\obj\Debug\net5.0-windows\Stock_Management_System.Viewstocks.resources
+C:\Users\USER\Desktop\Stock management System\Stock_Management_System\Stock_Management_System\obj\Debug\net5.0-windows\Stock_Management_System.csproj.CopyComplete
+C:\Users\USER\Desktop\Stock management System\Stock_Management_System\Stock_Management_System\obj\Debug\net5.0-windows\Stock_Management_System.Customers.resources
+C:\Users\USER\Desktop\Stock management System\Stock_Management_System\Stock_Management_System\obj\Debug\net5.0-windows\Stock_Management_System.Supplier.resources
+C:\Users\USER\Desktop\Stock management System\Stock_Management_System\Stock_Management_System\obj\Debug\net5.0-windows\Stock_Management_System.Category.resources
+C:\Users\USER\Desktop\Stock management System\Stock_Management_System\Stock_Management_System\obj\Debug\net5.0-windows\Stock_Management_System.order.resources
+C:\Users\USER\Desktop\Stock management System\Stock_Management_System\Stock_Management_System\obj\Debug\net5.0-windows\Stock_Management_System.Dashboard.resources
+E:\My Projects\Stock management System\Stock_Management_System\Stock_Management_System\bin\Debug\net5.0-windows\Stock_Management_System.exe
+E:\My Projects\Stock management System\Stock_Management_System\Stock_Management_System\bin\Debug\net5.0-windows\Stock_Management_System.deps.json
+E:\My Projects\Stock management System\Stock_Management_System\Stock_Management_System\bin\Debug\net5.0-windows\Stock_Management_System.runtimeconfig.json
+E:\My Projects\Stock management System\Stock_Management_System\Stock_Management_System\bin\Debug\net5.0-windows\Stock_Management_System.runtimeconfig.dev.json
+E:\My Projects\Stock management System\Stock_Management_System\Stock_Management_System\bin\Debug\net5.0-windows\Stock_Management_System.dll
+E:\My Projects\Stock management System\Stock_Management_System\Stock_Management_System\bin\Debug\net5.0-windows\Stock_Management_System.pdb
+E:\My Projects\Stock management System\Stock_Management_System\Stock_Management_System\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+E:\My Projects\Stock management System\Stock_Management_System\Stock_Management_System\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+E:\My Projects\Stock management System\Stock_Management_System\Stock_Management_System\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+E:\My Projects\Stock management System\Stock_Management_System\Stock_Management_System\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+E:\My Projects\Stock management System\Stock_Management_System\Stock_Management_System\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\My Projects\Stock management System\Stock_Management_System\Stock_Management_System\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\My Projects\Stock management System\Stock_Management_System\Stock_Management_System\obj\Debug\net5.0-windows\Stock_Management_System.csproj.AssemblyReference.cache
+E:\My Projects\Stock management System\Stock_Management_System\Stock_Management_System\obj\Debug\net5.0-windows\Stock_Management_System.Category.resources
+E:\My Projects\Stock management System\Stock_Management_System\Stock_Management_System\obj\Debug\net5.0-windows\Stock_Management_System.Customers.resources
+E:\My Projects\Stock management System\Stock_Management_System\Stock_Management_System\obj\Debug\net5.0-windows\Stock_Management_System.Dashboard.resources
+E:\My Projects\Stock management System\Stock_Management_System\Stock_Management_System\obj\Debug\net5.0-windows\Stock_Management_System.Form1.resources
+E:\My Projects\Stock management System\Stock_Management_System\Stock_Management_System\obj\Debug\net5.0-windows\Stock_Management_System.Home.resources
+E:\My Projects\Stock management System\Stock_Management_System\Stock_Management_System\obj\Debug\net5.0-windows\Stock_Management_System.login.resources
+E:\My Projects\Stock management System\Stock_Management_System\Stock_Management_System\obj\Debug\net5.0-windows\Stock_Management_System.order.resources
+E:\My Projects\Stock management System\Stock_Management_System\Stock_Management_System\obj\Debug\net5.0-windows\Stock_Management_System.Properties.Resources.resources
+E:\My Projects\Stock management System\Stock_Management_System\Stock_Management_System\obj\Debug\net5.0-windows\Stock_Management_System.Stocks.resources
+E:\My Projects\Stock management System\Stock_Management_System\Stock_Management_System\obj\Debug\net5.0-windows\Stock_Management_System.Supplier.resources
+E:\My Projects\Stock management System\Stock_Management_System\Stock_Management_System\obj\Debug\net5.0-windows\Stock_Management_System.Viewstocks.resources
+E:\My Projects\Stock management System\Stock_Management_System\Stock_Management_System\obj\Debug\net5.0-windows\Stock_Management_System.csproj.GenerateResource.cache
+E:\My Projects\Stock management System\Stock_Management_System\Stock_Management_System\obj\Debug\net5.0-windows\Stock_Management_System.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Projects\Stock management System\Stock_Management_System\Stock_Management_System\obj\Debug\net5.0-windows\Stock_Management_System.AssemblyInfoInputs.cache
+E:\My Projects\Stock management System\Stock_Management_System\Stock_Management_System\obj\Debug\net5.0-windows\Stock_Management_System.AssemblyInfo.cs
+E:\My Projects\Stock management System\Stock_Management_System\Stock_Management_System\obj\Debug\net5.0-windows\Stock_Management_System.csproj.CoreCompileInputs.cache
+E:\My Projects\Stock management System\Stock_Management_System\Stock_Management_System\obj\Debug\net5.0-windows\Stock_Management_System.csproj.CopyComplete
+E:\My Projects\Stock management System\Stock_Management_System\Stock_Management_System\obj\Debug\net5.0-windows\Stock_Management_System.dll
+E:\My Projects\Stock management System\Stock_Management_System\Stock_Management_System\obj\Debug\net5.0-windows\refint\Stock_Management_System.dll
+E:\My Projects\Stock management System\Stock_Management_System\Stock_Management_System\obj\Debug\net5.0-windows\Stock_Management_System.pdb
+E:\My Projects\Stock management System\Stock_Management_System\Stock_Management_System\obj\Debug\net5.0-windows\Stock_Management_System.genruntimeconfig.cache
+E:\My Projects\Stock management System\Stock_Management_System\Stock_Management_System\obj\Debug\net5.0-windows\ref\Stock_Management_System.dll
